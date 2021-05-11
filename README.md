@@ -46,40 +46,4 @@
     
     </div>
     
-  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
   
-  .delivery_info{
-    padding-top: 30px;}
-  .delivery_info strong{
-      font-size: 14px;
-    font-weight: 300;
-  }
-  .delivery_info ul{
-  	display: flex;
-    align-items: center;
-    list-style: none;
-    flex-wrap: wrap;
-    max-width: 500px;
-    margin-bottom:5px
-  }
-  .delivery_info ul li.iconimg{
-  
-    width: 30px;
-  }
-  .delivery_info ul li.txt{
-    flex: 1 0 0;
-  }
-  .delivery_info ul li.borderY{
-  border-bottom: 1px solid rgba(0,0,0,.1);
-    border-top: 1px solid rgba(0,0,0,.1);
-    padding: 10px 0;
-  }
-  .delivery_info ul li img{
-      width: 26px;
-  }
-  .delivery_info ul li span{
-  font-size: 14px;
-    display: block;
-    line-height: 1.2;
-    font-family: "Open Sans",Helvetica,Arial,sans-serif;
-  }
